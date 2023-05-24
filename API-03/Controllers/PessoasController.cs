@@ -24,5 +24,18 @@ namespace API_03.Controllers
         {
             return await _contexto.Pessoas.ToListAsync();
         }
+
+        [HttpGet]
+        public async Task<ActionResult<Pessoa>> PegarPessoaPeloIdAsync (int pessoaId)
+        {
+            Pessoa pessoa = await _contexto.Pessoas.FindAsync(pessoaId);
+
+            if (pessoa == null)
+                return NotFound();
+
+            return pessoa;
+
+            
+        }
     }
 }
