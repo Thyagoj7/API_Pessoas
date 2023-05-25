@@ -4,10 +4,7 @@
 <img alt="GitHub Issues" src="https://img.shields.io/github/issues/Thyagoj7/API_Pessoas" /><img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/Thyagoj7/API_Pessoas" /><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Thyagoj7/API_Pessoas" />
 <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Thyagoj7/API_Pessoas" />
 <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Thyagoj7/API_Pessoas" />
-<img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/Thyagoj7/API_Pessoas" /><img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/Thyagoj7/API_Pessoas" />
-
-
-<img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/Thyagoj7/API_Pessoas" />
+<img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/Thyagoj7/API_Pessoas" /><img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/Thyagoj7/API_Pessoas" /><img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/Thyagoj7/API_Pessoas" />
 
 
 
