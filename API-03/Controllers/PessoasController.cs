@@ -37,5 +37,37 @@ namespace API_03.Controllers
 
             
         }
+
+        [HttpPost]
+        public async Task<ActionResult<Pessoa>> AdcionarPessoaAsync (Pessoa pessoa)
+        {
+            await _contexto.Pessoas.AddAsync(pessoa);
+            await _contexto.SaveChangesAsync();
+
+            return Ok();    
+        }
+
+        [HttpPut]
+        public async Task<ActionResult> AlterarPessoaAsync (Pessoa pessoa)
+        {
+            _contexto.Pessoas.Update(pessoa);
+            await _contexto.SaveChangesAsync();
+
+            return Ok();
+        }
+
+        [HttpDelete ("{pessoaId}")]
+        public async Task<ActionResult> DeletarPessoaAsync (int pessoaId)
+        {
+            Pessoa pessoa = await _contexto.Pessoas.FindAsync(pessoaId);
+            if (pessoa == null)
+                return NotFound();  // fez sem o if
+            else
+                _contexto.Pessoas.Remove(pessoa);   // _contexto.Remove(pessoa); o do video ficou assim.
+            await _contexto.SaveChangesAsync();
+
+            return Ok();
+
+        }
     }
 }
