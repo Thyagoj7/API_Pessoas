@@ -1,7 +1,10 @@
 # API para gerenciar pessoas
 
-<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Thyagoj7/API_Pessoas" /><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Thyagoj7/API_Pessoas" /><img alt="" src="https://img.shields.io/github/repo-size/Thyagoj7/API_Pessoas" /><img alt="GitHub Issues" src="https://img.shields.io/github/issues/Thyagoj7/API_Pessoas" /><img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/Thyagoj7/API_Pessoas" /><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Thyagoj7/API_Pessoas" /><img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Thyagoj7/API_Pessoas" />
-<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Thyagoj7/API_Pessoas" /><img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/Thyagoj7/API_Pessoas" /><img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/Thyagoj7/API_Pessoas" />
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Thyagoj7/API_Pessoas" /><img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Thyagoj7/API_Pessoas" /><img alt="" src="https://img.shields.io/github/repo-size/Thyagoj7/API_Pessoas" />
+<img alt="GitHub Issues" src="https://img.shields.io/github/issues/Thyagoj7/API_Pessoas" /><img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/Thyagoj7/API_Pessoas" /><img alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/Thyagoj7/API_Pessoas" />
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Thyagoj7/API_Pessoas" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Thyagoj7/API_Pessoas" />
+<img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/Thyagoj7/API_Pessoas" /><img alt="GitHub Commit Activity (Month)" src="https://img.shields.io/github/commit-activity/m/Thyagoj7/API_Pessoas" />
 
 
 <img alt="GitHub Commit Activity (Year)" src="https://img.shields.io/github/commit-activity/y/Thyagoj7/API_Pessoas" />
@@ -35,4 +38,4 @@ API para gerenciar pessoas das mais diversas formas.
 * Thyago
 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
